@@ -1,4 +1,7 @@
 # Directories
-source_database = 'source_database/'
-input_database = 'input_database/'
-results_database = 'results_database/'
+root = '../'
+source_path = root + f'Data/Source/'
+input_path = root + f'Data/Input/'
+results_path = root + 'Data/Results/'
+
+fuzzy_target = 'fuzzy_target'
